@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<AssemblyName>Cirreum.Connections</AssemblyName>
+		<RootNamespace>Cirreum.Connections</RootNamespace>
+		<Description>Server-side abstractions for long-lived Cirreum connections. Defines the two-scope model (per-connection + per-invocation), identity lifecycle hooks, and the server-initiated push primitive that transport adapters (SignalR, WebSockets) build on.</Description>
+		<PackageTags>cirreum;connections;realtime;websocket;signalr;abstractions</PackageTags>
+	</PropertyGroup>
+
+</Project>
